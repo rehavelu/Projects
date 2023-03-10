@@ -1,4 +1,4 @@
-Aim:To segment customers to get a better understanding of them which in turn could be used to increase the revenue of the company.
+## Aim:To segment customers to get a better understanding of them which in turn could be used to increase the revenue of the company.
 
 * Customer Segmentation is the subdivision of a market into discrete customer groups that share similar characteristics.
 * Clustering is a type of unsupervised machine learning in which the algorithm processes our data and divides data into “clusters”. 
